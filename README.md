@@ -14,10 +14,9 @@ I'm a <strong>Software and Biomedical Engineer</strong> passionate about <strong
 <img src="https://skillicons.dev/icons?i=python,r,pytorch" />
 
 ### Web Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,linux,postman,bash,jest" />
+<img src="https://skillicons.dev/icons?i=git,linux,postman,bash,jest,vscode" />
 
 ### Others
 <img src="https://skillicons.dev/icons?i=c,cpp,dart,java,flutter" />
-
 
 
